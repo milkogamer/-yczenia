@@ -1,0 +1,33 @@
+body{
+
+    margin: 0;
+    font-family: Comic Sans MS;
+    background-color:	#76ecfb;
+   color: #9386e6;
+
+
+}
+
+#header{
+    text-align: center;
+    background-color:#69ffb9;
+    height:115px ;
+    margin-top: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+
+}
+#footer{
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    background-color: #c1fda0;
+    height: 50px;
+    text-align: center;
+    color: black;
+    font-size: 30px;
+    
+
+}
+
